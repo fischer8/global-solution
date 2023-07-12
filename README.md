@@ -1,4 +1,3 @@
-# global-solution
 
 ### Prova primeiro semestre
 #
